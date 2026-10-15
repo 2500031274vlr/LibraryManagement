@@ -1,0 +1,4 @@
+Transaction ID: T101
+Book ID: B101
+Member ID: M101
+Status: Issued
