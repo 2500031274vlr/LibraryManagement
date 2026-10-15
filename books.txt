@@ -1,0 +1,7 @@
+Book ID: B101
+Title: Operating Systems
+Status: Available
+
+Book ID: B102
+Title: Computer Networks
+Status: Available
